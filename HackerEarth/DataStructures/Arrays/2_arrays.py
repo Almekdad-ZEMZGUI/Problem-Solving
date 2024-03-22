@@ -27,6 +27,6 @@ elif asm < bsm and an == 1:
 elif asm > bsm and bn == 1:
     print(1)
 elif asm < bsm and an == 2:
-[I    print(bsm-asm + 1)
+    print(bsm-asm + 1)
 elif asm > bsm and bn == 2:
     print(asm-bsm + 1)
